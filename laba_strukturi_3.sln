@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "laba_strukturi_3", "laba_strukturi_3\laba_strukturi_3.vcxproj", "{C7873C64-11CB-4B9C-B5F7-B0C8E9E16398}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7873C64-11CB-4B9C-B5F7-B0C8E9E16398}.Debug|x64.ActiveCfg = Debug|x64
+		{C7873C64-11CB-4B9C-B5F7-B0C8E9E16398}.Debug|x64.Build.0 = Debug|x64
+		{C7873C64-11CB-4B9C-B5F7-B0C8E9E16398}.Debug|x86.ActiveCfg = Debug|Win32
+		{C7873C64-11CB-4B9C-B5F7-B0C8E9E16398}.Debug|x86.Build.0 = Debug|Win32
+		{C7873C64-11CB-4B9C-B5F7-B0C8E9E16398}.Release|x64.ActiveCfg = Release|x64
+		{C7873C64-11CB-4B9C-B5F7-B0C8E9E16398}.Release|x64.Build.0 = Release|x64
+		{C7873C64-11CB-4B9C-B5F7-B0C8E9E16398}.Release|x86.ActiveCfg = Release|Win32
+		{C7873C64-11CB-4B9C-B5F7-B0C8E9E16398}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7FE5ADFE-8CAA-49E0-9D10-24EC5D8DAB53}
+	EndGlobalSection
+EndGlobal
